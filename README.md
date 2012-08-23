@@ -1,7 +1,9 @@
 uniscript-dots
 ==============
 
-Configs and scripts for UniScript, the Acmeist programming language.
+Acmeism strives to remove barriers set up by different programming languages.
+
+One early project along these lines is [UniScript](https://github.com/acmeism/uniscript), and this repo will house scripts and configs for `.uni` files.
 
 Currently
 ---------
