@@ -16,4 +16,4 @@ More to follow once we figure out what kinds of cool stuff to make.
 Contact
 -------
 
-About anything: [uniscript-dots@sharpsaw.org](uniscript-dots@sharpsaw.org)
+About anything: [acmeism-dots@sharpsaw.org](acmeism-dots@sharpsaw.org)
