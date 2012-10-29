@@ -1,0 +1,3 @@
+[submodule ".vim/bundle/uniscript-vim"]
+	path = .vim/bundle/uniscript-vim
+	url = git://github.com/acmeism/uniscript-vim
